@@ -7,3 +7,5 @@ Javascript: used to functionality of changing blocks
 And this desgin an attractive and Visually appealing layout that captures visitors attention.
 And this portfolio include a Home page with a captivating heading,professional photo,and summary of skills.
 And i given a complete details of About Me.
+
+Demo Link: diwakar-personal-portfolio.netlify.app
